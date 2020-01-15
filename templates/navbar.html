@@ -1,0 +1,133 @@
+<!doctype html>
+<html>
+    <head>
+    </head>
+    <body>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="{{url_for('index')}}">Video Game Library</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('games')}}">Games</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('genres')}}">Genres</a>
+            </li>	      
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('companies')}}">Companies</a>
+            </li>
+          </ul>
+
+
+          <ul class = "navbar-nav navbar-right">
+            <li class = "nav-item">
+              <a class = "nav-link" href = "{{url_for('about')}}">About</a>
+            </li>
+          </ul>
+
+
+
+          <form class="form-inline my-2 my-lg-0" action="{{url_for('search')}}">
+            <input class="form-control mr-sm-2" type="text" name="search_str" placeholder="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>
+<!-- <form class = "form-inline" action = "{{url_for('games')}}">-->
+
+        </div>
+      </nav>
+
+      {% block content %}{% endblock %}
+<footer class="page-footer font-small bg-light pt-4">
+    <div class="container-fluid text-center text-md-left">
+      <div class="row">
+        <div class = "col-md-2">
+        </div>
+
+        <div class="col col-md-2 mb-md-0 mb-3">
+            <h5 class="text-uppercase">Pillars</h5>
+            <ul class="list-unstyled">
+              <li>
+                <a href="{{url_for('games')}}">Games</a>
+              </li>
+              <li>
+                <a href="{{url_for('genres')}}">Genres</a>
+              </li>
+              <li>
+                <a href="{{url_for('companies')}}">Companies</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="col col-md-2 mb-md-0 mb-3">
+            <h5 class="text-uppercase">About us</h5>
+            <ul class="list-unstyled">
+              <li>
+                <a href="{{url_for('about')}}#brandon_ford">Brandon Ford</a>
+              </li>
+              <li>
+                <a href="{{url_for('about')}}#william_kwon">William Kwon</a>
+              </li>
+              <li>
+                <a href="{{url_for('about')}}#madalyn_marabella">Madalyn Marabella</a>
+              </li>
+              <li>
+                <a href="{{url_for('about')}}#alejandro_palacios">Alejandro Palacios</a>
+              </li>
+              <li>
+                <a href="{{url_for('about')}}#noah_placke">Noah Placke</a>
+              </li>
+            </ul>
+          </div>
+
+        <div class="col col-md-2 mb-md-0 mb-3">
+            <h5 class="text-uppercase">Sources</h5>
+            <ul class="list-unstyled">
+              <li>
+                <a href="https://www.igdb.com/discover">IGDB</a>
+              </li>
+              <li>
+                <a href="https://www.wikipedia.org/">Wikipedia</a>
+              </li>
+              <li>
+                <a href="https://www.gamespot.com/news/">Gamespot</a>
+              </li>
+            </ul>
+        </div>
+
+        <div class="col col-md-2 mb-md-0 mb-3">
+            <h5 class="text-uppercase">Tools</h5>
+            <ul class="list-unstyled">
+              <li>
+                Python
+              </li>
+              <li>
+                Flask
+              </li>
+              <li>
+                PostgreSQL
+              </li>
+              <li>
+                API System
+              </li>
+              <li>
+                GitLab
+              </li>
+            </ul>
+        </div>
+
+
+      </div>
+    </div>
+    <div class="footer-copyright text-center py-3">© 2019 Copyright: Video Game Library
+    </div>
+  </footer>
+
+
+    </body>
+</html>

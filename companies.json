@@ -1,0 +1,872 @@
+{
+  "Companies": [
+  {
+    "id": 13710,
+    "country": 752,
+    "description": "Tomolo Games develope fun and simple mobile games!",
+    "developed": [
+      74974,
+      74975,
+      74977
+    ],
+    "logo": 1396,
+    "name": "Tomolo Games",
+    "start_date": 1494547200
+  },
+  {
+    "id": 16349,
+    "country": 840,
+    "description": "Lightbound Studios is a small indie game development studio located in Los Angeles. It\u0027s first mobile title is called Star Chasers and is available for download at the App Store and Google Play.",
+    "developed": [
+      105567,
+      109260
+    ],
+    "logo": 1752,
+    "name": "Lightbound Studios",
+    "start_date": 1406764800
+  },
+  {
+    "id": 4774,
+    "country": 124,
+    "description": "Chainsawesome Games is a Canadian independant game studio made up of Jean Simon Otis, David Paré and Jade Bélanger, working hard to bring to its audience new and awesome gameplays.",
+    "developed": [
+      9045,
+      14380,
+      27698
+    ],
+    "logo": 634,
+    "name": "Chainsawesome Games",
+    "start_date": 1443571200
+  },
+  {
+    "id": 9730,
+    "country": 752,
+    "description": "\"Clifftop Games is an indie gamedev studio, consisting of Joel Staaf Hästö, professional game programmer recently turned solo indie dev.\n\nHe is responsible for everything but art and music, a Joel-of-all-trades if you will, which is a fancy way of saying he\u0027s painfully mediocre at pretty much everything. But don\u0027t tell anyone.\"",
+    "developed": [
+      18997,
+      27278
+    ],
+    "logo": 776,
+    "name": "Clifftop Games",
+    "start_date": 1421884800
+  },
+  {
+    "id": 15696,
+    "country": 76,
+    "description": "Brazilian indie game developer",
+    "developed": [
+      103348
+    ],
+    "logo": 1623,
+    "name": "WSM Game Studio"
+  },
+  {
+    "id": 248,
+    "country": 392,
+    "description": "Bandai and NAMCO have both fundamentally been entertainment companies. By combining and enhancing Bandai\u0027s expertise in character merchandizing and NAMCO\u0027s creative strengths through the new BANDAI NAMCO Entertainment, we will provide a new level of sophistication in entertainment.",
+    "developed": [
+      1213,
+      1236,
+      1237,
+      1238,
+      1247,
+      1351,
+      1629,
+      2559,
+      2569,
+      2573,
+      2646,
+      3987,
+      4659,
+      4660,
+      4834,
+      5024,
+      5047,
+      5048,
+      5264,
+      5275,
+      5276,
+      5323,
+      5478,
+      5494,
+      6458,
+      6459,
+      6460,
+      6462,
+      6861,
+      6871,
+      7013,
+      7014,
+      7015,
+      7191,
+      7376,
+      7441,
+      7464,
+      7465,
+      7660,
+      9621,
+      11743,
+      14704,
+      18138,
+      18376,
+      21184,
+      25074,
+      25172,
+      26906,
+      28010,
+      28186,
+      36794,
+      41058,
+      42710,
+      44154,
+      47292,
+      48711,
+      49117,
+      51463,
+      51464,
+      51686,
+      51687,
+      51689,
+      52002,
+      52003,
+      52004,
+      52005,
+      54539,
+      54778,
+      54783,
+      56144,
+      68105,
+      68441,
+      72764,
+      74176,
+      74300,
+      75731,
+      75732,
+      75966,
+      76242,
+      76260,
+      76736,
+      85664,
+      86532,
+      90008,
+      90009,
+      90010,
+      95014,
+      96136,
+      97043,
+      100393,
+      102088,
+      105417,
+      107319,
+      109261,
+      109263,
+      109264,
+      109283,
+      109474,
+      112429,
+      112431,
+      112658
+    ],
+    "logo": 463,
+    "name": "Bandai Namco Entertainment",
+    "start_date": -441936000
+  },
+  {
+    "id": 16309,
+    "country": 276,
+    "description": "\"Flow Fire Games is a 2-man development team based in Berlin, Germany. \nWe focus on developing high quality games that emphasize rich and deep mechanics.\"",
+    "developed": [
+      86395,
+      112983
+    ],
+    "logo": 1940,
+    "name": "Flow Fire Games",
+    "start_date": 1430179200
+  },
+  {
+    "id": 10319,
+    "country": 616,
+    "description": "Madmind Studio is a game development studio created in 2016 by Tomasz Dutkiewicz. \n \n \nOur studio comprises veteran game developers, who have worked on numerous AAA titles, such as: \nThe Division, \nWitcher 3, \nSniper: Ghost Warrior 2, \nAlien Rage, \nEnemy Front, \nReal Boxing 2, \nGodfire: Rise of the Prometheus and more. \n \nWe are currently 9 developers determined to create best possible, visually stunning game with unique atmosphere.",
+    "developed": [
+      19453,
+      111861,
+      114156
+    ],
+    "logo": 1497,
+    "name": "Madmind Studio",
+    "start_date": 1483142400
+  },
+  {
+    "id": 7902,
+    "country": 392,
+    "description": "Nintendo Entertainment Planning \u0026 Development, or Nintendo EPD, is the largest division inside the Japanese video game company Nintendo. It was created after the merger of the company\u0027s Entertainment Analysis \u0026 Development (EAD) and Software Planning \u0026 Development (SPD) divisions in September 2015. \n \nThe division assumed both of its predecessors\u0027 roles, focusing on the development of games and software for Nintendo platforms and mobile devices; it also manages and licenses the company\u0027s various intellectual properties.",
+    "developed": [
+      7337,
+      7346,
+      11190,
+      11194,
+      11196,
+      18017,
+      18615,
+      19687,
+      23796,
+      26758,
+      26759,
+      26761,
+      26762,
+      26764,
+      26841,
+      26926,
+      27296,
+      27388,
+      37140,
+      37179,
+      58630,
+      90108
+    ],
+    "logo": 1149,
+    "name": "Nintendo EPD",
+    "start_date": 1442361600
+  },
+  {
+    "id": 5529,
+    "country": 840,
+    "description": "Based in Seattle, Washington.",
+    "developed": [
+      10232
+    ],
+    "logo": 1109,
+    "name": "Terrible Toybox"
+  },
+  {
+    "id": 14770,
+    "country": 764,
+    "description": "\"We are a start up game studio based in Bangkok. We are expert in music game development. \nSinoze is the team that created Thapster “The First Official Thai Music Game on Mobile”. With a lot of success stories from Thapster, our next step is to develop a great mobile music game to the global market.\" \n \nThe companies main website and website for their main game are no longer available. \nTheir game is also no longer on the app store.",
+    "developed": [
+      85831,
+      86224
+    ],
+    "logo": 1555,
+    "name": "Sinoze Co., Ltd.",
+    "start_date": 1356825600
+  },
+  {
+    "id": 9108,
+    "country": 276,
+    "description": "Chimera Entertainment is an experienced independent development studio for digital entertainment software with more than 20 released games and a focus on mobile and PC games. \n \n“Angry Birds Epic”, released in June 2014, is Chimera Entertainment’s biggest international success to date with more than 80 million downloads worldwide. “Sacred Legends”, Chimera\u0027s latest production was launched in August 2016. \n \nFounded in 2006, Chimera now employs close to 50 people in the heart of Munich and is the largest team within the developer network of production house remote control productions. The studio has developed more than 20 games across five platforms, including “Angry Birds Epic”, ”John Woo’s Bloodstroke”, “Demolition Dash” (winner of the German Developer Award 2011) and the RPG word-puzzle game ”Word Wonders: The Tower of Babel”, winner of the German Computer Games Awards 2013 (Best Mobile Game) and the massively multiplayer online strategy game ”Warstory – Europe in Flames”.",
+    "developed": [
+      35465,
+      37184
+    ],
+    "logo": 1389,
+    "name": "Chimera Entertainment",
+    "start_date": 1167436800
+  },
+  {
+    "id": 14933,
+    "country": 804,
+    "description": "Coffee Owl Games is a small indie studio from Odessa, Ukraine. They are a team of developers who have turned their love of playing games into career.",
+    "developed": [
+      89561
+    ],
+    "logo": 1544,
+    "name": "Coffee Owl Games",
+    "start_date": 1514592000
+  },
+  {
+    "id": 10359,
+    "country": 40,
+    "description": "Mi’pu’mi Games is an independent game development company based in Vienna, Austria. \n \nHaving worked for more than ten years in the industry, our founders set out to create Mi’pu’mi Games in 2009. The goal then was to create a space where skilled and dedicated game developers could work and learn together without suffering from the unhealthy employment- and business practices so common in large-scale game development. \n \nThroughout the years, we have learned, grown and attracted more talent – allowing us to design and implement solutions to problems across a variety of hardware platforms, be it PC \u0026 Console-, Browser- or Mobile Games. \n \nWe are continuously adding new interesting projects to our track record and are eager to enhance our knowledge and skillset in an ever-changing industry. Our artistic vision, technical prowess and professional rigor is reflected by the quality of our product and the good relationships that connect us to partners and players worldwide.",
+    "developed": [
+      20378,
+      26674
+    ],
+    "logo": 1453,
+    "name": "Mi\u0027pu\u0027mi Games",
+    "start_date": 1262131200
+  },
+  {
+    "id": 14440,
+    "country": 826,
+    "description": "We came together to make accessible games with understated depth, set in an atypical world. Two Point Studios features developers behind some of the most beloved sim games ever made. \n \nWhilst at Bullfrog, Muckyfoot and Lionhead, we’ve worked on (among others): Theme Hospital, Black \u0026 White; Startopia; Fable; and The Movies.",
+    "developed": [
+      82117
+    ],
+    "logo": 1739,
+    "name": "Two Point Studios",
+    "start_date": 1469491200
+  },
+  {
+    "id": 10219,
+    "country": 688,
+    "description": "Ebb Software was founded in 2013 by a group of highly motivated individuals with the sole purpose of creating a different breed of video games. Currently it has ten full time team members as well as a number of freelance artists it cooperates with.\n\nThey are based in Belgrade, Serbia.",
+    "developed": [
+      19817
+    ],
+    "logo": 835,
+    "name": "ebb Software",
+    "start_date": 1377993600
+  },
+  {
+    "id": 223,
+    "country": 840,
+    "description": "Edge of Reality is an American video game developer founded in 1998 and based in Austin, Texas that has developed video games for the Nintendo 64, Nintendo GameCube, PlayStation 2 and Xbox game consoles. It also has games in development for PlayStation 3 and Xbox 360 games consoles. Edge of Reality is an independent developer and therefore can work with any publisher and for any system. The company has two development teams, one of which works on licenses and established franchises, and the other works on completely original games. The company only develops two games at a time, one with each studio, feeling that \"anything more than that would jeopardize our focus, and therefore the quality of our studio\"\n\nEdge of Reality was founded in 1998 by Rob Cohen, the lead programmer of Turok: Dinosaur Hunter at Iguana Entertainment and Mike Panoff from Paradigm Entertainment. The company started by developing Nintendo 64 ports of successful games on other systems, including the Tony Hawk\u0027s Pro Skater series. Following the stability provided by the success of the ports, the company then branched out into developing its own original games on multiple platforms, including Pitfall: The Lost Expedition and Loadout.",
+    "developed": [
+      3224,
+      4059,
+      4070,
+      4148,
+      4928,
+      10615
+    ],
+    "logo": 968,
+    "name": "Edge of Reality",
+    "start_date": 914976000
+  },
+  {
+    "id": 17078,
+    "country": 410,
+    "description": "The South Korean subsidiary of LINE Corporation made through through the acquisition and consolidation of NextFloor Corporation into the LINE family of companies using the LINE Games brand/platform that began in 2012 as the basis for the new company.",
+    "developed": [
+      90037
+    ],
+    "logo": 1929,
+    "name": "LINE Games Corporation",
+    "start_date": 1531094400
+  },
+  {
+    "id": 15416,
+    "country": 840,
+    "description": "e are an independent video game development studio with a global team. At our core, we are passionate game developers and artists who seek to create meaningful experiences through our games and services. \n \nWe are all gamers, collectors and enthusiasts first. In a world of cloud storage, download codes and virtual licenses, we are excited and proud to create exclusive artisan collectibles that complement the effort that goes into indie and homebrew development. \n \nWe love creating games. From retro cartridges to PC \u0026 current generation consoles, we want to make games that are accessible and enjoyable for every gamer.",
+    "developed": [
+      56697,
+      83583,
+      101155,
+      106984
+    ],
+    "logo": 1582,
+    "name": "Mega Cat Studios"
+  },
+  {
+    "id": 7037,
+    "country": 124,
+    "description": "Pixel Pi Games is an independent game development studio owned and operated by Larissa Baptista, Leanne Roed, Maxwell Hannaman, Michael Cooper, and Richard Harrison. Their first game Pulse releases on October 20th, 2015. It is the final version of the award-winning prototype of the same name, completely recreated with all new content.",
+    "developed": [
+      13359
+    ],
+    "logo": 611,
+    "name": "Pixel Pi Games",
+    "start_date": 1369008000
+  },
+  {
+    "id": 108,
+    "country": 616,
+    "description": "Since the company\u0027s foundation in 1991, Techland has been consistently reinforcing its position in the industry and in 2000 began to conquer international markets. \n \nInitially, our activities were focused on the distribution of software in Poland. Later, towards the end of the nineties, we decided to commence the in-house production of computer software with the emphasis on video games. Currently, we create advanced high-budget games for all major platforms – the PC, Xbox 360, Xbox One, PlayStation 3 and PlayStation 4. The primary technology we use is our proprietary Chrome Engine®, currently at version 6, middleware, and toolset continuously developed for over 10 years now. Using this top-notch technology, we have released over 20 games, including Dead Island and Call of Juarez series. We also develop mobile games for iOS devices. \n \nTechland is a team of over two hundred dynamic people driven by ambition and creative passion. Our staff consists of highly experienced industry specialists and talented young apprentices from all fields. Every one of us perceives the electronic entertainment not only as their job but, more importantly, also as our lifetime passion and hobby. We achieve professional excellence by bringing ambitious projects to life and constant learning. Every day we push ourselves to realize our vision – deliver cutting-edge and attractive electronic entertainment. \n \nSee more at: http://company.techland.pl/about, ©Techland",
+    "developed": [
+      429,
+      430,
+      536,
+      543,
+      1833,
+      1976,
+      3042,
+      3250,
+      7096,
+      7872,
+      7873,
+      8034,
+      8035,
+      14804,
+      15445,
+      19399,
+      21762,
+      22874,
+      24311,
+      34951,
+      76891,
+      102584
+    ],
+    "logo": 7,
+    "name": "Techland",
+    "start_date": 694051200
+  },
+  {
+    "id": 803,
+    "country": 392,
+    "description": "Main Business: \n1. Computer software (design, creation, and sales) \n2. Publications of various types (design, creation, and sales) \n3. Music and graphics (design, creation and sales) \n4. Character goods (design, creation, and sales) \n5. Providing a range of information over information transmission networks \n6. All activities related to the previous items",
+    "developed": [
+      1237,
+      1766,
+      3478,
+      3717,
+      3721,
+      4832,
+      4833,
+      11068,
+      25022,
+      25023,
+      25024,
+      25025,
+      25026,
+      41828,
+      55037,
+      85430,
+      115282
+    ],
+    "logo": 1223,
+    "name": "Arika Co., Ltd.",
+    "start_date": 815184000
+  },
+  {
+    "id": 6084,
+    "country": 392,
+    "description": "\"Yakiniku Banzai is a Japanese two-man developer group best known for their “Human Tanks, Charge!” game series.\"",
+    "developed": [
+      9390,
+      11692,
+      11693
+    ],
+    "logo": 528,
+    "name": "Yakiniku Banzai",
+    "start_date": 1344902400
+  },
+  {
+    "id": 4824,
+    "country": 36,
+    "description": "Defiant Development are a Brisbane based game development studio filled with games industry veterans getting back to the reason they got into games in the first place.\n\nFounded in 2010, Defiant has released a broad variety of games that have received public and critical notice. \n\nWe develop mobile, console, educational and augmented reality games. You might know us from games such as Rocket Bunnies (iOS and Android), Hoops AR (Augmented Reality for Android), Warco (Freeplay award winning game about journalism in a warzone) and Heroes Call (tablet action RPG).",
+    "developed": [
+      9101,
+      18645,
+      51823
+    ],
+    "logo": 750,
+    "name": "Defiant Development",
+    "start_date": 1293667200
+  },
+  {
+    "id": 747,
+    "country": 752,
+    "description": "\"Tarsier Studios are a small bunch of game developers based in Malmö, Sweden. In 2012, our involvement with the fantastic LittleBigPlanet franchise culminated in Tarsier’s own beloved instalment LittleBigPlanet PSVita. Quite amazingly, we’re probably still best known for The City of Metronome – a game that we never actually made – but we’re hoping all that is about to change!\n\nThe future of Tarsier Studios lies in our own original ideas, and the first of these is a game that is very much a spiritual successor to Metronome, whilst also fashioning a unique identity of its own. It is a game called Hunger.\"",
+    "developed": [
+      9174,
+      20705,
+      26683,
+      36834,
+      36836,
+      36837,
+      36838,
+      53276
+    ],
+    "logo": 421,
+    "name": "Tarsier Studios",
+    "start_date": 1088640000
+  },
+  {
+    "id": 13473,
+    "country": 410,
+    "description": "\"We are an indie game development team located in Seoul, South Korea. We all happen to drink coffee for fuel to develop our games. \n \nWe are focused on making 2D games that explore interesting themes and stories. We aim to craft experiences that players will never forget.\"",
+    "developed": [
+      34470,
+      51385,
+      111253
+    ],
+    "logo": 1351,
+    "name": "Devespresso Games",
+    "start_date": 1419897600
+  },
+  {
+    "id": 2103,
+    "country": 840,
+    "description": "Founded in 2006 in Torrance, California, Aksys Games Localization, Inc. is a localization studio and visionary video game publisher specializing in the Japanese-to-English translation of games and committed to publishing unique, multicultural, high-quality interactive content for all current-generation and next-generation platforms with its talented staff.",
+    "developed": [
+      8577
+    ],
+    "logo": 819,
+    "name": "Aksys Games",
+    "start_date": 1152835200
+  },
+  {
+    "id": 11759,
+    "country": 616,
+    "description": "TwoMammoth is an independent game company founded by brothers Piotr Turecki – programmer and Marcin Turecki – artist creating their first game: Archaica: The Path Of Light.",
+    "developed": [
+      25625
+    ],
+    "logo": 1413,
+    "name": "TwoMammoths"
+  },
+  {
+    "id": 5324,
+    "country": 392,
+    "description": "\"Game software planning, development, sales, planning and production of Web content, character design and planning scenario production, sales of related products\" from google translate",
+    "developed": [
+      9914,
+      11743,
+      13201,
+      13202,
+      13216,
+      18905,
+      19801,
+      20021,
+      25586,
+      25593,
+      25664,
+      25665,
+      25672,
+      26624,
+      74156,
+      98082
+    ],
+    "logo": 567,
+    "name": "Experience Inc.",
+    "start_date": 1175385600
+  },
+  {
+    "id": 10897,
+    "country": 124,
+    "description": "I\u0027m an indie game developer who enjoys playing games just as much as creating them. Each project has been a great learning experience that I look forward to continuing.",
+    "developed": [
+      23904
+    ],
+    "logo": 914,
+    "name": "Divine Gaming",
+    "start_date": 1419984000
+  },
+  {
+    "id": 3010,
+    "country": 276,
+    "description": "We are an independent games publisher located near Cologne in Germany and have recently been awarded as Best German Publisher in 2012 by the German Developers Association. Together with our partners, we focus on the contentment of our customers and the best gameplay experience delivered at the fairest price-quality ratio. Since our foundation, we published over 70 SKU\u0027s, including many projects from highly talented developers that are known for their potential and creativity. Our portfolio features high-quality games such as Super Meat Boy, The Inner World, The Binding of Isaac, Terraria, Limbo, The Basement Collection, Grotesque Tactics, Q.U.B.E., Frozen Synapse and many more as well as the million sellers #1 iOS Hits Bridge Constructor and Bridge Constructor Playground. \n\nFurthermore, we offer internationally growing companies the possibility to enter the German or European market with an honest and experienced partner on location. Fair and transparent relationships with our business partners are the basis of our company\u0027s mission statement.",
+    "developed": [
+      9443,
+      10356,
+      10377,
+      10931,
+      16148,
+      16149,
+      16342,
+      17098,
+      17443,
+      17508,
+      18914,
+      27892
+    ],
+    "logo": 137,
+    "name": "Headup Games"
+  },
+  {
+    "id": 292,
+    "country": 826,
+    "description": "Traveller\u0027s Tales was founded in 1989 by Jon Burton. Initially a small company focused on its own content, it grew in profile through developing games with larger companies such as Sega and Disney Interactive Studios. \n \nIn 2004, development on Lego Star Wars: The Video Game started with publisher Giant Interactive Entertainment, and, the following year Traveller\u0027s Tales purchased and merged with Giant Interactive Entertainment, forming TT Games. From that point, Traveller\u0027s Tales served as the company\u0027s development branch, while Giant Interactive Entertainment became TT Games Publishing, the publishing branch. In 2007, the company acquired another developer and an animation studio, which became TT Fusion and TT Animation. \n \nOn 8 November 2007, Warner Bros. Interactive Entertainment announced that they had purchased TT Games for an undisclosed amount as part of their expansion into the video game industry",
+    "developed": [
+      138,
+      189,
+      190,
+      542,
+      1188,
+      1189,
+      2050,
+      2681,
+      2682,
+      2695,
+      2738,
+      2847,
+      3149,
+      3150,
+      3259,
+      3619,
+      3781,
+      3818,
+      3857,
+      4188,
+      4763,
+      4844,
+      4969,
+      5244,
+      5366,
+      5404,
+      5425,
+      6836,
+      6844,
+      7685,
+      8020,
+      8304,
+      9476,
+      10910,
+      11069,
+      11077,
+      12173,
+      17030,
+      18944,
+      19090,
+      19091,
+      19675,
+      19745,
+      25083,
+      52190,
+      94445,
+      94876,
+      101063
+    ],
+    "logo": 1235,
+    "name": "Traveller\u0027s Tales",
+    "start_date": 630979200
+  },
+  {
+    "id": 1009,
+    "country": 246,
+    "description": "RedLynx, a Ubisoft Studio is a multiplatform game development studio located in Helsinki. We are a passionate team of almost 140 people of 21 different nationalities. Founded in 2000, we are one of the oldest and biggest game studios in Finland. Since 2011 RedLynx has been part of Ubisoft, the 3rd biggest independent publisher in the world with over 12,000 team members. \n \nAt RedLynx we cherish the spirit of innovation and experimentation, and we are proud to have support and trust from Ubisoft to push practices and solutions that will be used by other studios worldwide.",
+    "developed": [
+      2145,
+      2147,
+      2149,
+      3191,
+      6264,
+      6270,
+      6271,
+      7212,
+      18310,
+      19553,
+      23027,
+      37063,
+      103316,
+      114045,
+      115301
+    ],
+    "logo": 1382,
+    "name": "RedLynx",
+    "start_date": 946684800
+  },
+  {
+    "id": 2684,
+    "country": 840,
+    "description": "\"Endless Fluff Games is an NYC based independent developer that provides fun yet challenging games. Our goal is to deliver a rich and deep experience through our strengths in art, character and setting. We aim to explore many genres and game design possibilities to offer diversity to our fans.\"",
+    "developed": [
+      6134,
+      16262,
+      26268
+    ],
+    "logo": 1004,
+    "name": "Endlessfluff Games",
+    "start_date": 1291766400
+  },
+  {
+    "id": 2233,
+    "country": 392,
+    "description": "Originally founded in 1976 as Red Company. \n \n\"Red Entertainment is a company that engages in entertainment planning, and creation of characters and contents. Building upon the capabilities for project planning, production and coordination that we cultivated over four decades, we develop works across a variety of media and genres. \nOur line of business encompasses a wide range of entertainment fields covering from consumer games to social games, pachinko/pachislot, books, theatrical production/live events, CDs, movies/animation, and character-themed goods. Through offering development service business, planning/producing business, licensing business and merchandising business, we cooperate and collaborate with client companies to provide works full of surprise and excitement to the customers around the world.\"",
+    "developed": [
+      5008,
+      5400,
+      5940,
+      8609,
+      18864,
+      19413,
+      20978,
+      20979,
+      22072,
+      31553,
+      54743,
+      71489
+    ],
+    "logo": 1256,
+    "name": "Red Entertainment",
+    "start_date": 975888000
+  },
+  {
+    "id": 7853,
+    "country": 276,
+    "description": "jumpsuit entertainment is a very young entertainment developer from Germany. It was founded late August 2014 by David Priemer and Daniel Goffin in order to be able to realize a game project. David and Daniel were introduced to each other in 2013 ago at the headquarters of Black Pants Studio GmbH. Daniel had just released his first mobile game “Symmetrain” and David had an intriguing idea for a puzzle game. Since then they have been working together with the goal to publish said project.",
+    "developed": [
+      15693,
+      26808
+    ],
+    "logo": 1992,
+    "name": "Jumpsuit Entertainment",
+    "start_date": 1409097600
+  },
+  {
+    "id": 9907,
+    "country": 752,
+    "description": "Lone Hero Studios is an indie game developer founded in 2014 and is located in Skövde, Sweden. We create games that will give you an unique experience and makes you think on your feet.",
+    "developed": [
+      19213,
+      19242,
+      26844
+    ],
+    "logo": 782,
+    "name": "Lone Hero Studios",
+    "start_date": 1417219200
+  },
+  {
+    "id": 10426,
+    "country": 840,
+    "description": "We’re an award-winning indie games development team based in Portland, Oregon and London currently working on Sonic Mania in conjunction with Christian Whitehead and Headcannon for XBOX One, Playstation 4 and PC. Founded in late 2011, we launched our first title – Major Magnet – in February 2013, which was awarded Apple’s coveted Editor’s Choice Award, was included in the PAX East Indie Showcase, hit Top 5 in the Paid Apps charts and was widely recognized as a success throughout the gaming community. Since then, the team has expanded to titles such as Circle Frenzy, Nom Chops, SnapPals, Mr. Buzz and Spirit Rush, which have all been featured on the App Store.",
+    "developed": [
+      21062
+    ],
+    "logo": 1180,
+    "name": "PagodaWest Games",
+    "start_date": 1325203200
+  },
+  {
+    "id": 16837,
+    "country": 840,
+    "description": "Grunka Munka Games is an independent video game studio in Seattle that began in February 2016 with the first prototype of Collidalot. After garnering attention, and a few awards, the Academy of Interactive Entertainment (AIE) Seattle funded us as their first US-based incubated studio. In March of 2018, we received formal approval from Nintendo of America to develop Collidalot for the Switch and we are thrilled to be launching on the platform.",
+    "developed": [
+      111148
+    ],
+    "logo": 1866,
+    "name": "Grunka Munka Games",
+    "start_date": 1483056000
+  },
+  {
+    "id": 95,
+    "country": 840,
+    "description": "The Disney Games \u0026 Interactive Experiences business is comprised of internally developed, licensed and co-developed mobile products, as well as licensed console video games. \n \nThese leading, world-class experiences draw upon the most beloved stories and characters from Disney, Pixar, Marvel and Star Wars to create high-quality interactive game experiences, across mobile and console platforms, for fans of all ages.",
+    "developed": [
+      360,
+      3613,
+      8448,
+      17172,
+      17743,
+      17753,
+      17758,
+      17765,
+      17818,
+      17829,
+      19429,
+      21371,
+      39751,
+      75566
+    ],
+    "logo": 1384,
+    "name": "Disney Interactive",
+    "start_date": 820368000
+  },
+  {
+    "id": 10075,
+    "country": 40,
+    "description": "THQ Nordic is the new name for Nordic Games and they are working on 13 new games based on THQ properties. \n\n\"About THQ Nordic GmbH\nFounded in 2011, the Vienna/Austria based company puts great emphasis on its extensive game catalogue. The core portfolio comprises products and brands which have been acquired from various parties (THQ, Atari, and others), and further acquisitions of IPs and trademarks will follow.\nThe company will pursue the long-term goal of delivering quality products that live up to expectations of gamers worldwide.\"",
+    "developed": [
+      1997,
+      1998,
+      16708,
+      17583,
+      20048,
+      20203,
+      25081,
+      28988,
+      29209,
+      32614,
+      75999
+    ],
+    "logo": 898,
+    "name": "THQ Nordic",
+    "start_date": 1470960000
+  },
+  {
+    "id": 4356,
+    "country": 840,
+    "description": "Giant Sparrow is a small video game company focused on creating surreal experiences people have never had before. Our dream is to make the world a stranger, more interesting place.\u0026#13;\n\u0026#13;\nWe\u0027re based in Santa Monica, CA.",
+    "developed": [
+      8352,
+      11233
+    ],
+    "logo": 1009,
+    "name": "Giant Sparrow",
+    "start_date": 1237593600
+  },
+  {
+    "id": 4509,
+    "country": 840,
+    "description": "Mystique was a videogames company in the 1980s who specialized in pornographic titles for the Atari 2600. Best known for their highly controversial title Custer\u0027s Revenge, in which famous Civil War General George Armstrong Custer must traverse an obstacle-filled desert in order to rape an extremely busty Native American woman. The company went out of business during the console market crash of 1983. Rights to their titles went to Playground, who released variants of the titles in both the U.S. and Europe following the games crash.",
+    "developed": [
+      8529,
+      11128,
+      11139
+    ],
+    "logo": 474,
+    "name": "Mystique"
+  },
+  {
+    "id": 18124,
+    "country": 392,
+    "description": "A Japanese software development company established in 1983 that worked with various companies till stopping in 1996, returning for a time from 2007-2008 to work on mobile games. \nCurrently active, since 2017 with some Android releases, and porting old titles to the Nintendo Switch.",
+    "developed": [
+      47555,
+      115534,
+      115538
+    ],
+    "logo": 1956,
+    "name": "YMCAT",
+    "start_date": 441676800
+  },
+  {
+    "id": 5202,
+    "country": 246,
+    "description": "Seepia Games is independent Finnish game studio which focuses on multiplayer free-to-play games for mobile and web platforms.",
+    "developed": [
+      9717,
+      9736
+    ],
+    "logo": 442,
+    "name": "Seepia Games",
+    "start_date": 1326326400
+  },
+  {
+    "id": 469,
+    "country": 40,
+    "description": "JoWooD Entertainment AG (formerly JoWooD Productions Software AG, commonly referred to as JoWooD) was an Austrian video game publisher that was founded in 1995. \nIn June 2011, JoWooD Entertainment all their assets and its subsidiary, Quantic Lab, was acquired by Nordic Games Holding AB. From this point on, JoWooD was no longer operating. All activities of the two companies were taken over by Nordic Games Holding. On 16 August 2011 Nordic Games Holding announced that it had acquired JoWooD\u0027s products and brands and some of the companies labels, including The Adventure Company. Following the acquisition it was announced that JoWood and the Adventure Company would become publishing labels for Nordic Games GmbH, a wholly owned subsidiary of Nordic Games Holding.",
+    "developed": [
+      3219
+    ],
+    "logo": 988,
+    "name": "JoWooD Entertainment AG",
+    "start_date": 820281600
+  },
+  {
+    "id": 14297,
+    "country": 208,
+    "description": "This is Kong Orange sharing ideas with everyone, who create digital entertainment.",
+    "developed": [
+      80006
+    ],
+    "logo": 1490,
+    "name": "Kong Orange"
+  },
+  {
+    "id": 4226,
+    "country": 40,
+    "description": "\"Broken Rules is an independent game studio based in Vienna, Austria. We design, develop and publish digital games for the downloadable games market.\"\n\n\"Our games focus on originality, simplicity, refined game mechanics and rich interactivity.\"",
+    "developed": [
+      8276,
+      9772,
+      20882,
+      21604
+    ],
+    "logo": 511,
+    "name": "Broken Rules",
+    "start_date": 1240444800
+  },
+  {
+    "id": 12487,
+    "country": 470,
+    "description": "Anvil Game Studios is a game development company based in Malta with an international team of passionate individuals. \n \nThey are currently independently developing and producing their debut title ‘Holdfast: Nations At War’ - A competitive multiplayer first and third person shooter set during the Napoleonic Era. Massive battles with over 125 players per server take place in the game.",
+    "developed": [
+      28164
+    ],
+    "logo": 1360,
+    "name": "Anvil Game Studios",
+    "start_date": 1402963200
+  },
+  {
+    "id": 6151,
+    "country": 826,
+    "description": "Two developers, one passion, on a mission to share their vision with the world.",
+    "developed": [
+      11181
+    ],
+    "logo": 535,
+    "name": "Eneme Entertainment"
+  }
+]
+}

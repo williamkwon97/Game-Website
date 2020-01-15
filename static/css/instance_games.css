@@ -1,0 +1,52 @@
+html, body {
+  margin: 0; padding: 0;
+}
+.hero-bkg-animated {
+  background: gray url(https://subtlepatterns.com/patterns/geometry2.png) repeat 0 0;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  height: 100%;
+  -webkit-animation: slide 20s linear infinite;
+}
+
+.hero-bkg-animated h1 {
+  font-family: sans-serif;
+}
+
+@-webkit-keyframes slide {
+    from { background-position: 0 0; }
+    to { background-position: -400px 0; }
+}
+
+a:hover {
+  text-decoration: none;
+  color: orange;
+}
+
+.row {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+h4.inline {
+  display: inline;
+  padding-right: 7px;
+  font-size: 17px;
+}
+
+
+#game-info {
+  padding: 15px;
+  border: double;
+  border-color: #4286f4;
+  border-radius: 12px;
+  background-color: #D3D3D3;
+  font-size: 17px;
+
+}
+
+#header {
+  text-align: center;
+  font-size: 40px;
+}

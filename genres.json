@@ -1,0 +1,125 @@
+{
+"Genres": [
+  {
+    "id": 13,
+    "name": "Simulator",
+    "url": "https://www.igdb.com/genres/simulator",
+    "description" : "A simulation video game describes a diverse super-category of video games, generally designed to closely simulate real world activities. A simulation game attempts to copy various activities from real life in the form of a game for various purposes such as training, analysis, or prediction. Usually there are no strictly defined goals in the game, with the player instead allowed to control a character or environment freely. Well-known examples are war games, business games, and role play simulation."
+
+  },
+  {
+    "id": 24,
+    "name": "Tactical",
+    "url": "https://www.igdb.com/genres/tactical",
+    "description" :  "Tactical games are are a genre of video game which incorporates elements of traditional role-playing video games with that of tactical games, emphasizing tactics rather than high-level strategy. The format of a tactical RPG video game is much like a traditional tabletop role-playing game in its appearance, pacing and rule structure."
+  },
+  {
+    "id": 26,
+    "name": "Quiz/Trivia",
+    "url": "https://www.igdb.com/genres/quiz-trivia",
+    "description" : "A quiz is a form of game or mind sport, in which the players (as individuals or in teams) attempt to answer questions correctly. It is a game to test your knowledge about a certain subject. In some countries, a quiz is also a brief assessment used in education and similar fields to measure growth in knowledge, abilities, and/or skills."
+  },
+  {
+    "id": 4,
+    "name": "Fighting",
+    "url": "https://www.igdb.com/genres/fighting",
+    "description" : "Fighting games center around close-ranged combat typically one on one fights or against a small number of equally powerful opponents, often involving violent and exaggerated unarmed attacks. Most fighting games feature a large number of playable characters and a competitive multiplayer mode. While most fighting games emphasize hand-to-hand combat, some fighting games such as Soulcalibur and Samurai Shodown center around combat with melee weapons."
+  },
+  {
+    "id": 15,
+    "name": "Strategy",
+    "url": "https://www.igdb.com/genres/strategy",
+    "description" : "A strategy game or strategic game is a game (e.g. video or board game) in which the players' uncoerced, and often autonomous decision-making skills have a high significance in determining the outcome. Almost all strategy games require internal decision tree style thinking, and typically very high situational awareness."
+  },
+  {
+    "id": 31,
+    "name": "Adventure",
+    "url": "https://www.igdb.com/genres/adventure",
+    "description" : "An adventure game is a video game in which the player assumes the role of a protagonist in an interactive story driven by exploration and puzzle-solving. The genre's focus on story allows it to draw heavily from other narrative-based media, literature and film, encompassing a wide variety of literary genres. Many adventure games (text and graphic) are designed for a single player, since this emphasis on story and character makes multi-player design difficult"
+  },
+  {
+    "id": 12,
+    "name": "Role-playing (RPG)",
+    "url": "https://www.igdb.com/genres/role-playing-rpg",
+    "description" : "A role-playing game (sometimes spelled roleplaying game; abbreviated RPG) is a game in which players assume the roles of characters in a fictional setting. Players take responsibility for acting out these roles within a narrative, either through literal acting, or through a process of structured decision-making regarding character development."
+  },
+  {
+    "id": 5,
+    "name": "Shooter",
+    "url": "https://www.igdb.com/genres/shooter",
+    "description" : "In shooter games (or simply shooters), players use ranged weapons to participate in the action, which takes place at a distance. Most shooters involve violent gameplay; lethal weaponry is used to damage opponents. However, some shooters, such as Splatoon, have non-violent objectives."
+  },
+  {
+    "id": 7,
+    "name": "Music",
+    "url": "https://www.igdb.com/genres/music",
+    "description" : "A music video game, also commonly known as a music game, is a video game where the gameplay is meaningfully and often almost entirely oriented around the player's interactions with a musical score or individual songs. Music video games may take a variety of forms and are often grouped with puzzle games due to their common use of 'rhythmically generated puzzles'."
+  },
+  {
+    "id": 32,
+    "name": "Indie",
+    "url": "https://www.igdb.com/genres/indie",
+    "description" : "An indie game (short for independent video game) is a video game that is most often created without the financial support of a publisher, although some games funded by a publisher are still considered independent. These games often focus on innovation and rely on digital distribution. Indie gaming saw a rise in mainstream popularity in the latter half of the 2000s, primarily due to new online distribution methods and widely available video game development tools."
+  },
+  {
+    "id": 16,
+    "name": "Turn-based strategy (TBS)",
+    "url": "https://www.igdb.com/genres/turn-based-strategy-tbs",
+    "description" : "A turn-based strategy (TBS) game is a strategy game (usually some type of wargame, especially a strategic-level wargame) where players take turns when playing. This is distinguished from real-time strategy (RTS), in which all players play simultaneously."
+  },
+  {
+    "id": 30,
+    "name": "Pinball",
+    "url": "https://www.igdb.com/genres/pinball",
+    "description" : "Pinball is a type of arcade game, in which points are scored by a player manipulating one or more metallic balls on a play field inside a glass-covered cabinet called a pinball machine. The primary objective of the game is to score as many points as possible, often within a limited time. Many modern pinball machines include a 'storyline' where the player must complete certain objectives in a certain fashion to complete the story, usually earning high scores for different methods of completing the game."
+  },
+  {
+    "id": 9,
+    "name": "Puzzle",
+    "url": "https://www.igdb.com/genres/puzzle",
+    "description" : "Puzzle video games make up a unique genre of video games that emphasize puzzle solving. The types of puzzles can test many problem-solving skills including logic, pattern recognition, sequence solving, and word completion. The player may have unlimited time or infinite attempts to solve a puzzle, or there may be a time limit, or simpler puzzles may be made difficult by having to complete them in real time, as in Tetris."
+  },
+  {
+    "id": 11,
+    "name": "Real Time Strategy (RTS)",
+    "url": "https://www.igdb.com/genres/real-time-strategy-rts",
+    "description" : "Real-time strategy (RTS) is a subgenre of strategy video games in which the game does not progress incrementally in turns. This is distinguished from turn-based strategy (TBS), in which all players take turns when playing."
+  },
+  {
+    "id": 25,
+    "name": "Hack and slash/Beat \u0027em up",
+    "url": "https://www.igdb.com/genres/hack-and-slash-beat-em-up",
+    "description" : "Hack and slash or hack and slay (H&S or HnS; also can be stylized in a hyphenated form as in hack-and-slash, or with a contracted conjunction as in hack 'n' slay) refers to a type of gameplay that emphasizes combat. The term 'hack and slash' was originally used to describe a play style in tabletop role-playing games, carrying over from there to MUDs, MMORPGs, and role-playing video games. In arcade- and console-style action video games, the term has a different usage, specifically implying a focus on real-time combat with hand-to-hand weapons as opposed to guns or fists."
+  },
+  {
+    "id": 8,
+    "name": "Platform",
+    "url": "https://www.igdb.com/genres/platform",
+    "description" : "Platform games (or platformers) have gameplay primarily centered around jumping and climbing to navigate the character's environment while avoiding obstacles and enemies. Generally the player's character in a platform game is able to jump many times their own height and player is offered some control over their movement in midair as well as the height and distance of their jumps. Settings tend to be vertically exaggerated with lots of uneven terrain that the player can leap to or fall off of."
+  },
+  {
+    "id": 10,
+    "name": "Racing",
+    "url": "https://www.igdb.com/genres/racing",
+    "description" : "The racing video game genre is the genre of video games, either in the first-person or third-person perspective, in which the player partakes in a racing competition with any type of land, water, air or space vehicles. They may be based on anything from real-world racing leagues to entirely fantastical settings. In general, they can be distributed along a spectrum anywhere between hardcore simulations, and simpler arcade racing games. Racing games may also fall under the category of sports games."
+  },
+  {
+    "id": 14,
+    "name": "Sport",
+    "url": "https://www.igdb.com/genres/sport",
+    "description" : "A sports game is a video game genre that simulates the practice of sports. Most sports have been recreated with a game, including team sports, track and field, extreme sports and combat sports. Some games emphasize actually playing the sport (such as the Madden NFL series), whilst others emphasize strategy and sport management (such as Championship Manager and Out of the Park Baseball). Some, such as Need for Speed, Arch Rivals and Punch-Out!!, satirize the sport for comic effect. This genre has been popular throughout the history of video games and is competitive, just like real-world sports. A number of game series feature the names and characteristics of real teams and players, and are updated annually to reflect real-world changes."
+  },
+  {
+    "id": 33,
+    "name": "Arcade",
+    "url": "https://www.igdb.com/genres/arcade",
+    "description" : "An arcade game or coin-op game is a coin-operated entertainment machine typically installed in public businesses such as restaurants, bars and amusement arcades. Most arcade games are video games, pinball machines, electro-mechanical games, redemption games or merchandisers. While exact dates are debated, the golden age of arcade video games is usually defined as a period beginning sometime in the late 1970s and ending sometime in the mid-1980s. Excluding a brief resurgence in the early 1990s, the arcade industry subsequently declined in the Western hemisphere as competing home video game consoles such as the Sony PlayStation and Microsoft Xbox increased in their graphics and game-play capability and decreased in cost."
+  },
+  {
+    "id": 2,
+    "name": "Point-and-click",
+    "url": "https://www.igdb.com/genres/point-and-click",
+    "description" : "Point and click are the actions of a computer user moving a pointer to a certain location on a screen (pointing) and then pressing a button on a mouse, usually the left button (click), or other pointing device. An example of point and click is in hypermedia, where users click on hyperlinks to navigate from document to document. Point and click can be used with any number of input devices varying from mouses, touch pads, trackpoint, joysticks, scroll buttons, and roller balls."
+  }
+]
+}

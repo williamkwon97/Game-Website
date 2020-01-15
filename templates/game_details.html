@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>Game Details</title>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
+	<link rel="stylesheet" type="text/css"  href="../static/css/instance_games.css"/>
+
+</head>
+
+<body>
+
+{% extends "navbar.html" %}
+{% block content %}
+<div class="hero-bkg-animated">
+  {% if game == none %}
+    <p>Game does not exist!</p>
+
+  {% else %}
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div id="header">{{game.name}}</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+				</div>
+				<div class="col-md-6">
+					<div id="game-info">
+						<div><h4 class="inline">Company:</h4>
+							{% for company in game.companies %}
+		            <a href = "{{url_for('companies')}}{{company.company_id}}">{{company.name}}{{" | " if not loop.last}}</a>
+		          {% endfor %}
+						</div>
+						<div><h4 class="inline">Rating:</h4>{{game.rating}}</div>
+				    <div><h4 class="inline">Summary:</h4>{{game.summary}}</div>
+				    <div><h4 class="inline">Genre(s):</h4>
+							{% for genre in game.genres %}
+				        <a href="{{url_for('genres')}}{{genre.genre_id}}">{{genre.name}}</a>{{" | " if not loop.last}}
+				      {% endfor %}
+						</div>
+						<div><h4 class="inline">Game Id:</h4>{{game.game_id}}</div>
+						<div><h4 class="inline">IDB Website:</h4><a href="{{game.url}}">{{game.url}}</a></div>
+					</div>
+				</div>
+				<div class="col-md-3">
+				</div>
+			</div>
+		</div>
+		</div>
+  {% endif %}
+
+{% endblock %}
+</body>
+</html>

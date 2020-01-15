@@ -1,0 +1,1332 @@
+commit a0d73f6081d69f5c32efe17dbe0b0cfade2fcbac
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 25 19:23:44 2019 -0500
+
+    updates about page count
+
+commit 82d2db38a671702d20eb3cfa7118ca71e5b32921
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 25 19:20:52 2019 -0500
+
+    adds IDB3.log
+
+commit 22d7a2f25dd18dcb0c619ffb753119acea42279d
+Merge: 29fdc57 5d141a2
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 25 19:17:55 2019 -0500
+
+    Merge branch 'master' of https://gitlab.com/noah_pl/cs329e-idb
+
+commit 29fdc574f081adef03623bd52988159f40f8cfd0
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 25 19:17:27 2019 -0500
+
+    fixed css problems
+
+commit 5d141a2be37e79211f1ab6224eb37e50592f92b0
+Merge: c3ed6fe b4ebed8
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 25 19:05:27 2019 -0500
+
+    Merge branch 'mm-dev'
+
+commit c3ed6fec7d70c6d8012fefbe21471b52d0e6bbec
+Merge: 4f3fc3f 9687c81
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 25 19:05:20 2019 -0500
+
+    Merge branch 'master' of https://gitlab.com/noah_pl/cs329e-idb
+
+commit b4ebed8c5657f560cd024f1f21d94112fdf62eb0
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 25 19:05:14 2019 -0500
+
+    makes popularity a pillar
+
+commit 9687c81920aaf7e3ace6ae09ce19442a94e98582
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 25 18:43:31 2019 -0500
+
+    updated about
+
+commit f065724d04e06ad0bca6b34de95c068f815d742a
+Merge: c434673 12414ac
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 25 18:37:04 2019 -0500
+
+    Merge branch 'bforddev'
+
+commit 12414ac6ca9669f270d24792588cd93a37febc84
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 25 18:35:22 2019 -0500
+
+    fixed sorting buttons in games pillar
+
+commit 4f3fc3f3433204cc00f8fde76dccee2ea081ab50
+Merge: c434673 638c00b
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 25 18:35:10 2019 -0500
+
+    Merge branch 'mm-dev'
+
+commit 638c00bdb9592e31392d1063720954bd347199a1
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 25 18:27:20 2019 -0500
+
+    cleans up repo
+
+commit c4346731d98185359ba29c4464cd9f8c0680ea8b
+Merge: f222e01 73b5874
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 25 18:07:28 2019 -0500
+
+    Merge branch 'mm-dev'
+
+commit 73b58744479935eee77c033e9da541bf836772b0
+Merge: d8bd698 a18fab1
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 25 18:03:36 2019 -0500
+
+    Merge branch 'master' into mm-dev
+
+commit d8bd6985ad8a63b5172c32cabe93e1a70be70a15
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 25 18:03:30 2019 -0500
+
+    adds more edge cases
+
+commit f222e0121b614909d94833db80f98d37330bcd6c
+Merge: a18fab1 3f88dff
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 25 17:42:24 2019 -0500
+
+    Merge branch 'bforddev'
+
+commit 3f88dff7cdde6eb81efc419fb781ecdaa93d6a0d
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 25 17:41:57 2019 -0500
+
+    changed size of logo pictures
+
+commit a18fab12fda14796a153cc55bee3a2368861369f
+Merge: d3012a4 eaa9a8b
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 25 14:16:03 2019 -0500
+
+    Merge branch 'bforddev'
+
+commit eaa9a8b48b0805411f4576d1598144ff005746d0
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 25 14:15:33 2019 -0500
+
+    made all the links similar in styling
+
+commit d3012a4d9bfc3af03709bfc4a95b733ba831c7f9
+Merge: 988cde0 57414e6
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Wed Apr 24 20:51:17 2019 -0500
+
+    Merge branch 'bforddev'
+
+commit 57414e6bf9233717d077dfcbc7332650c68ee102
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Wed Apr 24 20:50:33 2019 -0500
+
+    added logo picture to companies detail page
+
+commit 988cde0fce437cfc5b61ed146392e6252e8fad14
+Merge: 9cfb5af 43f50d1
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Wed Apr 24 20:16:27 2019 -0500
+
+    Merge branch 'bforddev'
+
+commit 43f50d1df612d7b200776779dfcac61f1934e378
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Wed Apr 24 19:58:43 2019 -0500
+
+    genres instance page filled with info and css
+
+commit 9cfb5afa8b95b3f91bc23600d3d85a91f14f8206
+Merge: 11e921d a8032c6
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Wed Apr 24 19:17:57 2019 -0500
+
+    Merge branch 'bforddev'
+
+commit a8032c64ad7a7dcb6de8a8306630c94e15f87cbe
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Wed Apr 24 19:08:30 2019 -0500
+
+    commpanies instance page has info and css now
+
+commit 11e921d4a71f73eef53b86f1bcf6b05abecdb389
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Wed Apr 24 15:25:37 2019 -0500
+
+    added read more buttons to genres and companies
+
+commit 2052e195b17e7322588b6facaea6dc0b1a5b1a2c
+Merge: 9386dc3 51226ec
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Wed Apr 24 11:11:07 2019 -0500
+
+    Merge remote-tracking branch 'origin' into npdev
+
+commit 2edac06b1bd436dcc9b3d3334120ba1af9085db3
+Merge: 184c1be bba51c5
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Wed Apr 24 01:15:11 2019 -0500
+
+    fixed merge conflict when pulling from mm-dev
+
+commit 51226ec1dfc49ba983a6dc837ef8461f03b3877d
+Merge: 37c8d71 184c1be
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Wed Apr 24 01:11:55 2019 -0500
+
+    resolved merge conflict
+
+commit 184c1be4803fd9a4df43aa402a0602ea868fed36
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Wed Apr 24 01:04:44 2019 -0500
+
+    added css to instance page for games
+
+commit 37c8d71623f6a4071acaffeceb22f1f6548e7f61
+Merge: 2e5dfd0 bba51c5
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 24 00:31:07 2019 -0500
+
+    Merge branch 'mm-dev'
+
+commit bba51c5cf088eb1364bb3bdb3b7f42c1405495a8
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 24 00:30:41 2019 -0500
+
+    implements global search
+
+commit 42ab99dba9fe6152511ddc2a564227655bebfdb8
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 23 23:24:55 2019 -0500
+
+    adds links between pillars
+
+commit 7a03d34da78fad29a0acf091a6494dc9268df189
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 23 23:07:27 2019 -0500
+
+    creates company and genre detail pages
+
+commit 2e5dfd0e41801a29986a6fd6ca761190efbb4df0
+Merge: 9bef285 7fdc8ff
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 23 22:46:40 2019 -0500
+
+    Merge branch 'mm-dev'
+
+commit 7fdc8ff836756cd1f2aa5ed939050dfd5791e6ae
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 23 20:05:14 2019 -0500
+
+    adds search column headings
+
+commit c03d1e5e609c6b591dd0565da28df73dfe9dc061
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 23 20:00:44 2019 -0500
+
+    adds search for genre and company columns
+
+commit b7ae34292c749db98955457e8c4faa955aa3a8a6
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 23 19:56:55 2019 -0500
+
+    adds search for games column
+
+commit ae6b5ddcf16a0ae2462d7c0d758d4f26d7df15e5
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 23 19:39:46 2019 -0500
+
+    creates search page
+
+commit 9bef285a8a4da4a988c3718575c10056be82866e
+Merge: 1f4296f 5bb5b50
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Tue Apr 23 19:24:12 2019 -0500
+
+    corrected CSS
+
+commit 9386dc363963d8b168456bff98289f78d288246c
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Tue Apr 23 19:22:15 2019 -0500
+
+    changed about page w speaker deck
+
+commit 1f4296f8b366c9aa17f98aad52331eb3adf48845
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Tue Apr 23 19:16:41 2019 -0500
+
+    Fixed css for games table
+
+commit c26b9b8701c73834e16e8a72abbd8781dc29f773
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 23 19:09:06 2019 -0500
+
+    removes if/else tree from main
+
+commit 5bb5b50f95d3f13b7f1b7700bef275f59703fb65
+Merge: ddf35ea 87963b3
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 23 18:35:26 2019 -0500
+
+    Merge branch 'mm-dev'
+
+commit 87963b31b36e24348a55217cf663b1f5a1a2ba85
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 23 18:35:17 2019 -0500
+
+    removes limit, offset, sorting for all queries
+
+commit ddf35eab560576b8824515a5ba71bcb4fc446ae8
+Merge: 24a3d33 08f1881
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Tue Apr 23 18:32:29 2019 -0500
+
+    Merge branch 'npdev2'
+
+commit 08f1881ca20f19432481ea80a79d3bfc94324af8
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Tue Apr 23 18:31:25 2019 -0500
+
+    added search to all pages
+
+commit 24a3d33d62c2fe553ee8cbf80b07a6c104345820
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 23 18:22:00 2019 -0500
+
+    removes limit, offset, and sorting
+
+commit c8eeba81646d87fee0687c62c474f0b8e71b649c
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Tue Apr 23 17:44:45 2019 -0500
+
+    added footer correctly
+
+commit 06a0487de03510e2fb4a690c55bd0fa7b3b011ba
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Sun Apr 21 13:52:40 2019 -0500
+
+    test for search and pagination
+
+commit 39133f0c5ae52dc0eb33af33b7805cfcaa4a7549
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 18 17:52:44 2019 -0500
+
+    converted companies page into table format
+
+commit ec52c60a17e23d0b1aa10b6509344d868db094e0
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 17 21:56:13 2019 -0500
+
+    adds links to game details page
+
+commit 759bdb616360228afc05b2a69d6447dc97a40c13
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 17 20:20:27 2019 -0500
+
+    adds parameter to games url
+
+commit 2e0af1d1f98b64daef0fdfd3009f58635efec8bb
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 17 20:20:04 2019 -0500
+
+    creates game_details template
+
+commit ebe1cbae73232f21d2b2c202f07e04dd6df053ed
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Wed Apr 17 16:37:07 2019 -0500
+
+    added search functionality
+
+commit dae3d15ed1ed3d2175629338840d877c3fa56952
+Merge: a525a24 ef25f88
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Wed Apr 17 16:05:25 2019 -0500
+
+    Merge remote-tracking branch 'origin/master' into npdev
+
+commit ef25f8834ff99abbbce1d3c72fc79fdcc12db83c
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 21:53:19 2019 -0500
+
+    changed requirements
+
+commit 7fb0f09d965b3b26604bcf6a4ae2a0c48342a9c9
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 21:45:45 2019 -0500
+
+    changed app.yaml
+
+commit 035bc486e66f74ff278d9dcbc2e2a8acd0e8b9b7
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 21:42:01 2019 -0500
+
+    added log
+
+commit 262f11880de94896051474263dc68d488474bf56
+Merge: c169d67 8969335
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 21:13:19 2019 -0500
+
+    resolves merge conflict
+
+commit c169d67d2c0b2de9177dd0fd503e6655142ff6cb
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 21:12:24 2019 -0500
+
+    updates app.yaml to original
+
+commit 8969335cf71545d865cfbfc2cac350f0d53af5b0
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 21:10:38 2019 -0500
+
+    changed app.yaml
+
+commit 97ea3dd6930e30014f367fff84952bf6870bfc81
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 20:51:05 2019 -0500
+
+    changed app.yaml
+
+commit 5fc19d30e86de3a17f03c7a1da8343235a2cd3b0
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 20:50:16 2019 -0500
+
+    changed app.yaml
+
+commit 09e5bf5d358a48ccf1383df76f198f3cbfb5e7c7
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 20:44:31 2019 -0500
+
+    changed app.yaml
+
+commit c416386a45e0bbc8600d3a8dca5d8789317fe6be
+Merge: 75cb4fc e9efec2
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 20:11:48 2019 -0500
+
+    Merge branch 'master' into mm-dev2
+
+commit 75cb4fc52e9b0e1116386fe5882de851e0510e2a
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 20:11:28 2019 -0500
+
+    fixes offset for pagination
+
+commit e9efec2497121ef6400f76136510e4f06ccc8c26
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 20:05:39 2019 -0500
+
+    added page buttons to games.html
+
+commit c16c24f5272a622f8aa552456a9d1eae47b3ee23
+Merge: fddbf87 1664c11
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 19:58:55 2019 -0500
+
+    Merge branch 'master' into mm-dev2
+
+commit fddbf87a32da093e8b0ee291957e2dfd783b2e1b
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 19:58:49 2019 -0500
+
+    adds limit to games query
+
+commit 1664c11fdc41cef7093c411bb093d2f5c12d6042
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 19:49:48 2019 -0500
+
+    fixed about
+
+commit ddec6f1723023687a6262ea0f5bfe7c4c0a823ec
+Merge: d101128 fd015e0
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 19:38:01 2019 -0500
+
+    added footer
+
+commit d101128fb11d6c747800bfab1d241d5f44e849f5
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 19:34:37 2019 -0500
+
+    added footer
+
+commit fd015e011042eef0b4cfd3392cddd9d268936188
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 19:12:38 2019 -0500
+
+    added models.html
+
+commit f05cd81ebabdf59736130b291f4fc1de40361df7
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 19:08:58 2019 -0500
+
+    edit about page
+
+commit 0ac477feaec75c2de03805a579d24fb967e8cd53
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 4 19:01:59 2019 -0500
+
+    added path links to index.html
+
+commit bb7a6a8a6c4b496dd16a15eb32932e5ecfa2a1ee
+Merge: a35945e 46ab46a
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 18:55:18 2019 -0500
+
+    Merge branch 'master' of https://gitlab.com/noah_pl/cs329e-idb
+
+commit a35945e8ed7ea3cc9ec009634321db1b50377202
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 18:55:11 2019 -0500
+
+    added sorting of games developed in companies
+
+commit a525a24b25d6357e1782d8767faba7023ba6e522
+Merge: b7c700f beac305
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 18:52:02 2019 -0500
+
+    Merge remote-tracking branch 'origin/master' into npdev
+
+commit 46ab46aa1c6d8ae305a496851ca1f7225bd56988
+Merge: 54c4c19 b7c700f
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 18:51:25 2019 -0500
+
+    removed unnecessary files
+
+commit 54c4c198e23fdef14f5e564a4f9ff462bddd8baa
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 18:49:51 2019 -0500
+
+    fixed date time
+
+commit beac305bfe19c534678e4680cbc54f8320145110
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 18:47:15 2019 -0500
+
+    Added date founded to companies.html and added sorting for it to main.py
+
+commit 770a931d9a5bec9cd95e859560babc828f1ca21e
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Thu Apr 4 18:38:19 2019 -0500
+
+    about
+
+commit b7c700f035669028502c5ff9d0f4b4648e730eaa
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Thu Apr 4 18:30:36 2019 -0500
+
+    added more unit tests and screenshot
+
+commit e1d5542e04a7e59ae1969fa84dc1a15175d06d22
+Merge: 3d15e1a 6d5423f
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 18:22:28 2019 -0500
+
+    Merge branch 'mm-dev2'
+
+commit 6d5423f25050495273a857bafee1fe0c73f6c26e
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 18:18:09 2019 -0500
+
+    adds date_founded to companies table;
+    '
+    :
+
+commit 3d15e1a87fd235e6651fdb0510a6d514e9585144
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 18:04:39 2019 -0500
+
+    added sorting by url in genre.html and main.py
+
+commit 13040d71466c0c02d6d13d85ff45143da69caa0a
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 18:02:23 2019 -0500
+
+    added url to genres.html
+
+commit 9995cd9b50cab586e15275d65d2ee436a89ba8d4
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 17:50:42 2019 -0500
+
+    added fake popularity to genres.html
+
+commit 1ae3eb40b6162b989873409f3d22f1e4b628bee2
+Merge: 6b022d5 17f22e9
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 4 17:29:49 2019 -0500
+
+    Merge branch 'bforddev'
+
+commit 17f22e969cd55cd9a9f22f2d192b46035f4f8597
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 4 17:28:08 2019 -0500
+
+    added country code to show up in companies.html
+
+commit 6b022d56941681a7802de9398af7f0d8ba5dad58
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 16:43:57 2019 -0500
+
+    added unavailable.jpg to companies with no pictures
+
+commit ce2d4d31f15e82cb82b68cbd696d7f0e870736af
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 4 16:34:18 2019 -0500
+
+    added to about page
+
+commit 14b1619dc3bd0babc43cd5f3298a80fa8d4fc451
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 16:18:36 2019 -0500
+
+    made splash page look nice
+
+commit c0fcdefc83951799976e871753475f74550f408f
+Merge: c507fd1 c8afed2
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 4 16:07:48 2019 -0500
+
+    resolving merge conflicts
+
+commit c507fd1ec8a0dc86b6088271f2746f87b3b09f01
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Thu Apr 4 15:57:14 2019 -0500
+
+    added 5 more unit tests
+
+commit c8afed22877f1ae0107ea7f2a984a8e8222417a5
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 15:53:07 2019 -0500
+
+    added pic to total about page
+
+commit bea183d7cd80c90caa26867f805881a6f0e240b1
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 15:49:03 2019 -0500
+
+    added games to genres attributes
+
+commit 7906d1afac87add64f91df2ec59e0e1851876607
+Merge: 94cac25 24befd7
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Thu Apr 4 15:27:54 2019 -0500
+
+    Merge branch 'William'
+
+commit 24befd7c7bb0ca648d0e64caa032bb9367efc281
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Thu Apr 4 15:27:05 2019 -0500
+
+    unit test
+
+commit 94cac250269ab82f3a26d73067d5530d6c9893a0
+Merge: a187e73 66d2580
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Thu Apr 4 15:14:55 2019 -0500
+
+    Merge branch 'master' of https://gitlab.com/noah_pl/cs329e-idb
+
+commit 66d25800e07e529f39544a8abbcd2a3494d5b3b0
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 15:08:19 2019 -0500
+
+    changed genres.html to a table
+
+commit a187e73e79f899cb0809396f6ee79f717e8f02f7
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Thu Apr 4 15:07:41 2019 -0500
+
+    updated json unit test
+
+commit 1ad9405afa1102e19c690c3869a8defd8d9167a9
+Merge: 75ec324 e3e838f
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Thu Apr 4 15:01:59 2019 -0500
+
+    Merge branch 'master' into William
+
+commit 75ec324fa7ec1d9b0be646bf1cfc3229fb5a34cd
+Merge: 6a3db8c c66c046
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Thu Apr 4 15:01:36 2019 -0500
+
+    json updated
+
+commit 6a3db8cc68c71fcc6af4fd76d8f6140ee386f6f7
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Thu Apr 4 14:28:04 2019 -0500
+
+    genre.json updated
+
+commit e3e838f058793cbc9a626f544ae4d1a04eae75c5
+Merge: 34573e2 c66c046
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Thu Apr 4 14:20:26 2019 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 5dcfafbdf931ee82e84f31aaf8e165a25822ebeb
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Thu Apr 4 14:14:00 2019 -0500
+
+    update genres.json
+
+commit c66c046c551a89277f0e958e5b1b79c62b72feda
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 14:13:31 2019 -0500
+
+    updated alex about me
+
+commit f0c17f5c70cd631a71173a6ff014086cde64c6d2
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 14:01:21 2019 -0500
+
+    rearranged navbar
+
+commit 2c6d3411458b252015b706854fe3cba9461f031c
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 09:45:06 2019 -0500
+
+    removes print statements and hardcoded cells
+
+commit d6925f479c70401d4d72db270dc3297baa81785a
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 08:54:59 2019 -0500
+
+    updates madalyns about page
+
+commit 4f772a79cffa28e0f28ed7b66805f0a6a1aeb3fd
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 08:49:44 2019 -0500
+
+    clean up
+
+commit 6e67de59b87a0fa3a7e4fe3f7f109ed2aef1e474
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 08:36:37 2019 -0500
+
+    adds description to test4
+
+commit 1144ba5b1a6add088eecdba93ea0ab6562a1b542
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 03:26:53 2019 -0500
+
+    fixes sorting on games page
+
+commit 8a5cdf8dc11c4fb32d0d63e3b473c809db5dc6e5
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 03:08:13 2019 -0500
+
+    fixes joins in main
+
+commit 4b20500db468c5cfc5b79337fc357132a42de5ce
+Merge: ea761f2 87d1b43
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 03:00:22 2019 -0500
+
+    resolves merge conflicts
+
+commit 87d1b43f15173018188c0aa20c5314169e6c6c3f
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 02:44:27 2019 -0500
+
+    makes game page a table
+
+commit 04eed758ed7faafdc0412ddebe5b23653b086177
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 02:28:18 2019 -0500
+
+    removes hardcoded game
+
+commit 95557bc6989b287ddf6d5fc480f44430bbe5cd76
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 02:25:04 2019 -0500
+
+    adds company links to games page:
+
+commit ccea332b0adbbb5e4ddad6e2689fe4d5860775dc
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 02:08:47 2019 -0500
+
+    queries db to dynamically create companies page
+
+commit 1ede660510544947c1c903915d771b724a61882c
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 01:31:00 2019 -0500
+
+    files for generating company images
+
+commit 5e526ba7a7c507cd142499e29ca8d30cfd70d6ac
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 01:29:41 2019 -0500
+
+    saves company images by id
+
+commit ea761f2d9025deafcc4cf4017f032425b381595b
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 00:57:28 2019 -0500
+
+    added sorting forms to pillars
+
+commit 9db3767d5fcf9bc87bf00a7dc69c24113919d760
+Merge: a72c296 255746d
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 00:48:15 2019 -0500
+
+    Merge branch 'master' of https://gitlab.com/noah_pl/cs329e-idb
+
+commit a72c296bcb133c1ebeb2dd6a865ba1f23ca41a00
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Thu Apr 4 00:47:57 2019 -0500
+
+    added sorting form to pillars
+
+commit 255746d3e74374dcd73b1b149d6613d8eebcbc9a
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Thu Apr 4 00:02:25 2019 -0500
+
+    adds dynamic linking to genres page
+
+commit 778330293a539a6e5a667bf2a05bf1d8f7cfbea4
+Merge: fccf3b3 73fe6dc
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 3 23:16:18 2019 -0500
+
+    Merge branch 'mm-dev'
+
+commit fccf3b3858c52634cdebe3dc7c62bb015660d39c
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Wed Apr 3 21:25:15 2019 -0500
+
+    added test buttons for sorting
+
+commit 73fe6dc3ce4072899ad651f911c28eb94c67b767
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 3 20:55:10 2019 -0500
+
+    generates games based on existing companies
+
+commit e711ac857fb8f84ac41cdbe6b17893c35e8065eb
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Wed Apr 3 20:23:30 2019 -0500
+
+    games2.html now games.html
+
+commit 5c95fa7a1a15423d156040c594360e5807b26dcc
+Merge: 4925e56 178f248
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Wed Apr 3 20:12:24 2019 -0500
+
+    Merge branch 'npdev' of https://gitlab.com/noah_pl/cs329e-idb
+
+commit 4925e56626c44a99558ddf281f0d1f917f71dc4c
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Wed Apr 3 20:06:54 2019 -0500
+
+    added carousel
+
+commit 178f248c501cddae9c258f44036918900b13f355
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Wed Apr 3 19:59:55 2019 -0500
+
+    added a unit test
+
+commit 34573e2a346b6cf0bf4a94e640ca610e84cc77b0
+Merge: 67fe72d f04b329
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Wed Apr 3 19:55:53 2019 -0500
+
+    Merge branch 'master' of https://gitlab.com/noah_pl/cs329e-idb
+    commit
+    
+    .
+
+commit 67fe72df2af842de5f8a4a6e4586110c3d2860d4
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Wed Apr 3 19:52:45 2019 -0500
+
+    update test.py
+
+commit aa72a29d62bd6bf24ce41f190b82ceb8c1b03963
+Merge: c62a129 f04b329
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Wed Apr 3 19:44:57 2019 -0500
+
+    Merge remote-tracking branch 'origin/master' into npdev
+
+commit f04b3293e0303b2591f8d57563893a456fe28a29
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Wed Apr 3 19:43:54 2019 -0500
+
+    Changes to unittests
+
+commit c62a12939229dcd5a85d4838b699c7cec2ef53af
+Merge: 9bbbfbc d0e4fae
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Wed Apr 3 19:38:12 2019 -0500
+
+    Merge remote-tracking branch 'origin/master' into npdev
+
+commit 9bbbfbc610e4a7b9ef25d854d18357b95fb2bfed
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Wed Apr 3 19:37:27 2019 -0500
+
+    changed app.yaml and index
+
+commit d0e4fae42b9f7df6d5ebbd46828e5202ba546cac
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Wed Apr 3 19:34:02 2019 -0500
+
+    formatted genres in games.html
+
+commit 56714964176594d7099b58bb36b830d511822f94
+Merge: 3558d6b d34e928
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Wed Apr 3 19:21:08 2019 -0500
+
+    Merge branch 'master' of https://gitlab.com/noah_pl/cs329e-idb
+
+commit 3558d6b6ea4ac3f07ebc6590b6a515f5788f812d
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Wed Apr 3 19:19:56 2019 -0500
+
+    Wrote another unitetest
+
+commit d34e928aee4c80d29106a41c349400dfaab856df
+Merge: 028fc16 147f697
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 3 19:18:33 2019 -0500
+
+    merges master
+
+commit 028fc16493d423f631112e7c65428a77138dfbee
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 3 19:15:09 2019 -0500
+
+    implements game/genre join
+
+commit fc5a473ed32ea771f85af103ca35f214a2eb426c
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 3 19:14:03 2019 -0500
+
+    adds get_games to CompanyLookup.py
+
+commit 83e44ebb5d36960000ecd7f88809416bdaff323c
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 3 19:13:40 2019 -0500
+
+    gets individual companies in script
+
+commit 147f697448886b0c913716833f82ae927a6a4f0e
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Wed Apr 3 19:01:58 2019 -0500
+
+    renamed unit tests
+
+commit 035963e93a64c969d2d8e7848d0ab0d6c6e945c7
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Wed Apr 3 18:34:09 2019 -0500
+
+    added unit tests and total to about page
+
+commit 30ac9a282855eb0122052d30b8a21ff24430789f
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Wed Apr 3 18:04:41 2019 -0500
+
+    added unit tests
+
+commit 22a96b13d0e4f56cb935e763f9fce0d66de7b8b0
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 3 12:10:48 2019 -0500
+
+    WIP companies bridge table
+
+commit 704df638924dbc347a9310e0e8760eae0c95079e
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 3 00:37:43 2019 -0500
+
+    (FK ERROR - DOES NOT RUN) adds games/companies bridge
+
+commit ed9bb7cc896d8bacf144a618acf8dd0107a517d6
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Wed Apr 3 00:14:55 2019 -0500
+
+    creates associative games/genres table
+
+commit 816ea32131abe433597daa47481699f4dd0d79dd
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 2 20:59:03 2019 -0500
+
+    dynamically updates games page
+
+commit db2011d6b376bc805d5ea51c9391ea1a879d9bee
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 2 20:47:47 2019 -0500
+
+    adds games2 file that uses db data
+
+commit 68a2e8bba02af9da5a017e4cdeaedca6ffba3567
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 2 18:12:03 2019 -0500
+
+    updates models and create_db for companies
+
+commit 439d7b800e9745d2ce5e8c15c3c414175f1288d9
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 2 18:11:44 2019 -0500
+
+    updates apiscript for companies
+
+commit 7e2130ae58414fc68a080879cc05890efbbf76ca
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 2 17:39:37 2019 -0500
+
+    updates models and create_db for games
+
+commit 50d23e7739563f6958b051d655c6b638147a6250
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 2 17:39:19 2019 -0500
+
+    adds pycache to gitignore
+
+commit 73ccb3ca9a216602d24a91c47956dcb3a9c0c4c9
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 2 17:38:00 2019 -0500
+
+    modifies script for creating games json
+
+commit 4098dd1d2af74953cdb88675021eaf10ac155b81
+Merge: 840a5b2 a6f86ad
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 2 14:12:07 2019 -0500
+
+    Merge branch 'master' into mm-dev
+
+commit a6f86ad4ea39dd616a4c2f6fc8e6658d83bb2103
+Merge: 3fa4aa7 6fbb8bb
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Tue Apr 2 03:52:56 2019 -0500
+
+    Merge branch 'master' of https://gitlab.com/noah_pl/cs329e-idb
+
+commit 3fa4aa75078cd4b55f52b9fcc95f78a978cdf0e7
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Tue Apr 2 03:52:41 2019 -0500
+
+    remade html and css of all pillars and about me page
+
+commit 840a5b20f86c57927e02b0f1351c8f089428e293
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Tue Apr 2 00:00:51 2019 -0500
+
+    updates model for genres
+
+commit 6fbb8bbc996fef00346b16cf4cad2da627e6d4f6
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Mon Apr 1 23:22:12 2019 -0500
+
+    fixes port mapping error
+
+commit a5b0de0dbc8dd0c4d9b22108da066d5f0903e57c
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Mon Apr 1 23:12:23 2019 -0500
+
+    adds initial files for ci pipeline
+
+commit fa0d1233f14bb93adf43a345e8e96779e65cac2c
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Mon Apr 1 21:33:40 2019 -0500
+
+    adds output json files
+
+commit 1da41d06f8270e9d0e9fccce1a02d2b02f5b2aac
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Mon Apr 1 21:33:26 2019 -0500
+
+    generates games and genres json files
+
+commit ea35ceb9c01eab4f7160b88b085f3320fbc1515b
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Mon Apr 1 21:17:49 2019 -0500
+
+    finishes script to generate companies.json
+
+commit 26716189add240042ebb8718bb3cd8d7797dfb23
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Mon Apr 1 21:06:37 2019 -0500
+
+    creates bash script to get API data
+
+commit 584741abbb9ec212b8336e10d195aa5326c75911
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Mon Apr 1 20:05:23 2019 -0500
+
+    changed about.html
+
+commit 8dc7b82b7288111f3489a7933154be6c5f5dfdc6
+Merge: e5d68bd 83cc486
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Mon Apr 1 19:59:12 2019 -0500
+
+    Merge branch 'bforddev'
+
+commit 83cc4865a08ed21ff3c107d7edf8e33c9d348a35
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Mon Apr 1 19:58:32 2019 -0500
+
+    adding files that were made in the fork
+
+commit e5d68bd57ae0bc56c86e836671541949fed5e2d3
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Sun Mar 24 18:46:15 2019 -0500
+
+    added in log
+
+commit ae2e2cfe102fa9d4ad573518f9fea5d3baf8d16a
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 18:31:23 2019 -0500
+
+    cleans up home page
+
+commit 8b96e027717c40311b2ff14bf5943fc1718a965b
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 18:23:19 2019 -0500
+
+    adds wikipedia citation
+
+commit 4d94b896b710137217f2ef304fc37c2925d39f11
+Merge: 3782c55 76ba9b2
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 17:30:45 2019 -0500
+
+    Merge branch 'mm-dev'
+
+commit 76ba9b29a1f11a795516a145c2aeaee76edf66e4
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 17:23:21 2019 -0500
+
+    comments out js links to avoid 404s
+
+commit 15c053718dd70b0af4b67e675fe3cb970a427cf3
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 17:17:59 2019 -0500
+
+    adds ratings to games page
+
+commit 3782c55ce1c50385f99f6e0ee19b8407a97c68c5
+Merge: 0958de6 bcee34f
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 16:43:32 2019 -0500
+
+    Merge branch 'mm-dev'
+
+commit bcee34fabf5b9b39f568906e474243a7158e6b7b
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 16:42:39 2019 -0500
+
+    adds pillar links to company page
+
+commit ab8fa89ce086b858ad34d7fd87178f26b1993f31
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 13:12:08 2019 -0500
+
+    adds ids to genres
+
+commit 9bcde4c9fa2052b0d3abe2d9e123467f76973c00
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 13:06:27 2019 -0500
+
+    adds pillar links to genres page
+
+commit 0958de652f0a402283dc9d995d548e99aa821921
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Sun Mar 24 12:39:07 2019 -0500
+
+    added splash page image
+
+commit 61b729c601cb0ca52108e1cf065e4a32f96891c5
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 11:22:07 2019 -0500
+
+    adds links to genres for 3 games
+
+commit 7b5fa7c2f5914d1b30d6e4efcaf05850365a34f6
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 11:21:46 2019 -0500
+
+    rearranges games
+
+commit 687fa956cd93dd39da1869257ba720c9ea7c0c33
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 11:06:46 2019 -0500
+
+    links companies for 3 games
+
+commit 17d72c9740cb49f1b06dd9ec84de5617e492b2fa
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 00:04:56 2019 -0500
+
+    adds swap files to gitignore
+
+commit e0ef0d6b3fa70ead0eb9754c95a5a02e61a52a36
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 24 00:03:52 2019 -0500
+
+    finishes links for smash bros
+
+commit 73b3dcf8d4fc0979d4e92b13fd4c1daada9c1b2b
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sat Mar 23 16:14:20 2019 -0500
+
+    links smash bros to fighting genre
+
+commit 12ac89ccd306d770db7059f0a0a7ad2ad974bbce
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Fri Mar 22 17:12:37 2019 -0500
+
+    added text connections for each page
+
+commit b73e3151c3048997514a2c30672c43b11d23a74a
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Fri Mar 22 17:11:57 2019 -0500
+
+    added text connections for each page
+
+commit 2d3f98c2439b963cb5a059adaf571a158996c7b4
+Merge: b767a9d 1830904
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Wed Mar 20 16:13:37 2019 -0500
+
+    Merge remote-tracking branch 'origin/William'
+    
+    genres.html updated
+
+commit 18309042b2b786304a0bd75e2656959044df60a1
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Wed Mar 20 16:10:59 2019 -0500
+
+    updated genre
+
+commit b767a9d756138c25b7a1a7d4559b304f91af9053
+Author: Brandon Ford <brandonford002@gmail.com>
+Date:   Tue Mar 19 14:51:05 2019 +0100
+
+    added photos and ceneterd description on companies page
+
+commit cca18422098bc2aefab98c485a88f237b3a82ad8
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Mon Mar 18 09:53:07 2019 -0500
+
+    replaces main2 with main in yaml, closes #6
+
+commit e725d33ccc9e83671610690d65f545a0c3a4330c
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 17 18:34:50 2019 -0500
+
+    replaces nav bar html with jinja tag
+
+commit 2698258ebaa0fb61a25a57f922f7577d33953322
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 17 18:34:19 2019 -0500
+
+    creates navbar template
+
+commit 23bcc0c6c164e25a68eb1007f164f1e609311e7f
+Merge: b9348a5 80361e9
+Author: William Kwon <williamkwon97@gmail.com>
+Date:   Sun Mar 17 13:10:20 2019 -0500
+
+    Merge branch 'mm-dev' of https://gitlab.com/noah_pl/cs329e-idb into William
+    for test
+    for test
+
+commit 109c7cbc49975c90340f7efcd600b3fc379e1596
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Sun Mar 17 12:51:46 2019 -0500
+
+    fixed links and added images
+
+commit 80361e93c0c7432f6d4c2391db6ca222dc572deb
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sun Mar 17 09:19:58 2019 -0500
+
+    uses jinja template on games.html
+
+commit 9759439beec3160ec9cfdde7b14a60a101d18634
+Author: Madalyn Marabella <mmarabella@utexas.edu>
+Date:   Sat Mar 16 18:22:02 2019 -0500
+
+    adds routing functions to main.py
+
+commit 13bc8d2c5ac8e2e398f714a64dc4349327194e2d
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Sat Mar 16 17:45:57 2019 -0500
+
+    Added all static pages
+
+commit da589067a07ec7fc6aecbf1b28d53fa704399101
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Sat Mar 16 15:47:09 2019 -0500
+
+    Added games to game page
+
+commit 4f7321a246e1392d158b7f4ae55cff38cf3a945e
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Wed Mar 13 20:02:14 2019 -0500
+
+    Created Skeletons for Games Page
+
+commit b9348a5e2220519d1d03c645a13b16a8f369bf7b
+Author: Alejandro Palacios <alex16palashus@gmail.com>
+Date:   Wed Mar 13 17:26:05 2019 -0500
+
+    created react app
+
+commit 8e5c0532484b0573dfc79445f9d1fe407a1e4713
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Tue Mar 12 18:39:21 2019 -0500
+
+    fixed static
+
+commit 8e72b0bf5cfc95b19d1e5402eb0de22f2d3ac2a4
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Tue Mar 12 18:38:10 2019 -0500
+
+    added static
+
+commit 3522f45a86ed47b8029829368dc0378f128437ce
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Tue Mar 12 18:36:07 2019 -0500
+
+    added static
+
+commit 2dffc3cec8dbdfa83ca49327bde9250ad0e90e7c
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Tue Mar 12 17:57:16 2019 -0500
+
+    added folders from tutorial
+
+commit 4f9acd3dbeb6c582b9bc390327bd0288d5769a4d
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Mon Mar 11 12:57:46 2019 -0500
+
+    added inital files
+
+commit 7dc76f136e87f93621478b97f7b10d80caa8301b
+Author: Noah Placke <plackenoah@yahoo.com>
+Date:   Mon Mar 11 17:55:26 2019 +0000
+
+    Initial commit

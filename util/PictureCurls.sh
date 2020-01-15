@@ -1,0 +1,6 @@
+rm company_image_urls
+curl -H 'user-key: 401df87a02a8f4c13842a135bad415a4' -d 'fields *; limit 50; where id = (1396, 1752, 634, 776, 1623, 463, 1940, 1497, 1149, 1109);' 'https://api-v3.igdb.com/company_logos/' | jq '.[] | (.id|tostring) + " " + .url' >> company_image_urls
+curl -H 'user-key: 401df87a02a8f4c13842a135bad415a4' -d 'fields *; limit 50; where id = (1555, 1389, 1544, 1453, 1739, 835, 968, 1929, 1582, 611);' 'https://api-v3.igdb.com/company_logos/' | jq '.[] | (.id|tostring) + " " + .url' >> company_image_urls
+curl -H 'user-key: 401df87a02a8f4c13842a135bad415a4' -d 'fields *; limit 50; where id = (7, 1223, 528, 750, 421, 1351, 819, 1413, 567, 914);' 'https://api-v3.igdb.com/company_logos/' | jq '.[] | (.id|tostring) + " " + .url' >> company_image_urls
+curl -H 'user-key: 401df87a02a8f4c13842a135bad415a4' -d 'fields *; limit 50; where id = (137, 1235, 1382, 1004, 1256, 1992, 782, 1180, 1866, 1384);' 'https://api-v3.igdb.com/company_logos/' | jq '.[] | (.id|tostring) + " " + .url' >> company_image_urls
+curl -H 'user-key: 401df87a02a8f4c13842a135bad415a4' -d 'fields *; limit 50; where id = (898, 1009, 474, 1956, 442, 988, 1490, 511, 1360, 535);' 'https://api-v3.igdb.com/company_logos/' | jq '.[] | (.id|tostring) + " " + .url' >> company_image_urls

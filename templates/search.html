@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>Search Results</title>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
+	<link rel = "stylesheet" href = "../static/css/pillars.css">
+
+</head>
+
+<body>
+
+{% extends "navbar.html" %}
+{% block content %}
+
+
+
+	<div id = "header">Search Results</div>
+  <br>
+
+	<table class = "table table-bordered">
+    <thead class="thead-light">
+    <tr>
+      <th>Game Results</th>
+      <th>Company Results</th>
+      <th>Genre Results</th>
+    </tr>
+    </thead>
+    <tr>
+      <td>
+        {% if games == [] %}
+          <p>No games match search</p>
+        {% else %}
+          {% for game in games %}
+            <p><a href = "{{url_for('games')}}{{game.game_id}}">{{game.name}}</a></p>
+          {% endfor %}
+        {% endif %}
+      </td>
+      <td>
+        {% if companies == [] %}
+          <p>No companies match search</p>
+        {% else %}
+          {% for company in companies %}
+            <p><a href = "{{url_for('companies')}}{{company.company_id}}">{{company.name}}</a></p>
+          {% endfor %}
+        {% endif %}
+      </td>
+      <td>
+        {% if genres == [] %}
+          <p>No genres match search</p>
+        {% else %}
+          {% for genre in genres %}
+            <p><a href = "{{url_for('genres')}}{{genre.genre_id}}">{{genre.name}}</a></p>
+          {% endfor %}
+        {% endif %}
+      </td>
+    </tr>
+  </table>
+
+<!--  <div class="container">
+    <div class="row">
+      <div class="col-sm-4 border-left">
+        <h4>Game Results</h4>
+        {% for game in games %}
+          <p><a href = "{{url_for('games')}}{{game.game_id}}">{{game.name}}</a></p>
+        {% endfor %}
+      </div>
+      <div class="col-sm-4 border-left border-right">
+        <h4>Company Results</h4>
+        {% for company in companies %}
+          <p>{{company.name}}</p>
+        {% endfor %}
+      </div>
+      <div class="col-sm-4 border-right">
+        <h4>Genre Results</h4>
+        {% for genre in genres %}
+          <p>{{genre.name}}</p>
+        {% endfor %}
+      </div>
+    </div>
+  </div>-->
+
+<br><br>
+
+
+<footer class="page-footer font-small bg-light pt-4">
+    <div class="container-fluid text-center text-md-left">
+      <div class="row">
+        <div class = "col-md-2">
+        </div>
+
+        <div class="col col-md-2 mb-md-0 mb-3">
+            <h5 class="text-uppercase">Pillars</h5>
+            <ul class="list-unstyled">
+              <li>
+                <a href="{{url_for('games')}}">Games</a>
+              </li>
+              <li>
+                <a href="{{url_for('genres')}}">Genres</a>
+              </li>
+              <li>
+                <a href="{{url_for('companies')}}">Companies</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="col col-md-2 mb-md-0 mb-3">
+            <h5 class="text-uppercase">About us</h5>
+            <ul class="list-unstyled">
+              <li>
+                <a href="{{url_for('about')}}#brandon_ford">Brandon Ford</a>
+              </li>
+              <li>
+                <a href="{{url_for('about')}}#william_kwon">William Kwon</a>
+              </li>
+              <li>
+                <a href="{{url_for('about')}}#madalyn_marabella">Madalyn Marabella</a>
+              </li>
+              <li>
+                <a href="{{url_for('about')}}#alejandro_palacios">Alejandro Palacios</a>
+              </li>
+              <li>
+                <a href="{{url_for('about')}}#noah_placke">Noah Placke</a>
+              </li>
+            </ul>
+          </div>
+
+        <div class="col col-md-2 mb-md-0 mb-3">
+            <h5 class="text-uppercase">Sources</h5>
+            <ul class="list-unstyled">
+              <li>
+                <a href="https://www.igdb.com/discover">IGDB</a>
+              </li>
+              <li>
+                <a href="https://www.wikipedia.org/">Wikipedia</a>
+              </li>
+              <li>
+                <a href="https://www.gamespot.com/news/">Gamespot</a>
+              </li>
+            </ul>
+        </div>
+
+        <div class="col col-md-2 mb-md-0 mb-3">
+            <h5 class="text-uppercase">Tools</h5>
+            <ul class="list-unstyled">
+              <li>
+                Python
+              </li>
+              <li>
+                Flask
+              </li>
+              <li>
+                PostgreSQL
+              </li>
+              <li>
+                API System
+              </li>
+              <li>
+                GitLab
+              </li>
+            </ul>
+        </div>
+
+
+      </div>
+    </div>
+    <div class="footer-copyright text-center py-3">© 2019 Copyright: Video Game Library
+    </div>
+  </footer>
+  
+<script>
+function search_func() {
+  // Declare variables 
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    } 
+  }
+}
+</script>
+
+  
+{% endblock %}
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
